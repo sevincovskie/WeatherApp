@@ -29,7 +29,6 @@ html {
 body {
     background: url('../assets/w.jpg') center/cover;
 	font-family: var(--body-font);
-	background-color: var(--primary);
 	color: var(--p-tint-90);
 }
 
